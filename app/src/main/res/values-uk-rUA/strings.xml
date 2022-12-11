@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">РОЗКЛАД v1.0</string>
+    <string name="prompt_email">E-Mail</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Логін</string>
+    <string name="action_sign_in_short">Логін</string>
+    <string name="account_title">Акаунт</string>
+    <string name="schedule_title">Розклад</string>
+    <string name="settings_title">Налаштування</string>
+    <string name="btn_account">Акаунт</string>
+    <string name="btn_schedule">Розклад</string>
+    <string name="btn_settings">Налаштування</string>
+    <string name="tit_studentid">ID студента</string>
+    <string name="tit_faculty">Факультет</string>
+    <string name="tit_specialty">Спеціальність</string>
+    <string name="tit_group">Група</string>
+    <string name="tit_term">Термін</string>
+    <string name="tit_form_of_study">Форма навчання</string>
+    <string name="tit_term_of_study">Термін навчання</string>
+    <string name="tit_email">E-Mail</string>
+    <string name="tit_theme_color">Тема</string>
+    <string name="tit_language">Мова</string>
+    <string name="theme_dark">Темна</string>
+    <string name="theme_light">Світла</string>
+    <string name="uk">Українська</string>
+    <string name="en">Англійська</string>
+
+</resources>

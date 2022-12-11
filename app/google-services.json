@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "937394410588",
+    "firebase_url": "https://drscheduler-default-rtdb.firebaseio.com",
+    "project_id": "drscheduler",
+    "storage_bucket": "drscheduler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937394410588:android:55555fac2a6756c1200299",
+        "android_client_info": {
+          "package_name": "com.example.drshceduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937394410588-0ktc8voo1i7kg1svukk961nhcp9lkra3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNQ44TEZpUj-4SCalidZio4gWoO7R4EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937394410588-0ktc8voo1i7kg1svukk961nhcp9lkra3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937394410588:android:b99fd83bf3c31e3f200299",
+        "android_client_info": {
+          "package_name": "com.example.jschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937394410588-0ktc8voo1i7kg1svukk961nhcp9lkra3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNQ44TEZpUj-4SCalidZio4gWoO7R4EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937394410588-0ktc8voo1i7kg1svukk961nhcp9lkra3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

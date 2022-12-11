@@ -1,0 +1,2 @@
+1.ScheduleFragment.java добавив обробку Link
+2.string.xml
